@@ -1,0 +1,38 @@
+[
+    {
+        "Name": "Sayak Bhattacharjee",
+        "aadharNo": "12018009019508",
+        "contactNo": "8334915286",
+        "Address": "Kolkata"
+    },
+    {
+        "Name": "Adrija Guha",
+        "aadharNo": "12018009019330",
+        "contactNo": "9939331657",
+        "Address": "Jamshedpur"
+    },
+    {
+        "Name": "Apurva Choudhury",
+        "aadharNo": "12018009019190",
+        "contactNo": "6299445916",
+        "Address": "Bokaro"
+    },
+    {
+        "Name": "Suhradeep Ganguly",
+        "aadharNo": "12018009019308",
+        "contactNo": "9073126670",
+        "Address": "New Alipore"
+    },
+    {
+        "Name": "Poulami Das",
+        "aadharNo": "12018009019522",
+        "contactNo": "9007591497",
+        "Address": "Kolkata"
+    },
+    {
+        "Name": "Dishari Nandi",
+        "aadharNo": "12018009019580",
+        "contactNo": "8697032375",
+        "Address": "Kolkata"
+    }
+]
